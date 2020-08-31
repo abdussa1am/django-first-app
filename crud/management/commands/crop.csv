@@ -1,0 +1,523 @@
+domainc,domain,areac,area,elemc,elem,itemc,item,yearc,year,unit,value,Flag,Flagd
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1961,1961,ha,67860,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1961,1961,hg/ha,8089,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1961,1961,tonnes,54894,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1962,1962,ha,126088,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1962,1962,hg/ha,5264,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1962,1962,tonnes,66371,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1963,1963,ha,99446,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1963,1963,hg/ha,7452,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1963,1963,tonnes,74112,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1964,1964,ha,82338,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1964,1964,hg/ha,6484,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1964,1964,tonnes,53389,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1965,1965,ha,79405,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1965,1965,hg/ha,5963,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1965,1965,tonnes,47347,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1966,1966,ha,90815,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1966,1966,hg/ha,6165,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1966,1966,tonnes,55984,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1967,1967,ha,94752,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1967,1967,hg/ha,7185,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1967,1967,tonnes,68075,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1968,1968,ha,82140,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1968,1968,hg/ha,7531,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1968,1968,tonnes,61861,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1969,1969,ha,68932,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1969,1969,hg/ha,6907,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1969,1969,tonnes,47608,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1970,1970,ha,67164,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1970,1970,hg/ha,7068,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1970,1970,tonnes,47471,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1971,1971,ha,77216,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1971,1971,hg/ha,7439,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1971,1971,tonnes,57442,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1972,1972,ha,79513,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1972,1972,hg/ha,7023,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1972,1972,tonnes,55845,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1973,1973,ha,80493,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1973,1973,hg/ha,7687,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1973,1973,tonnes,61877,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1974,1974,ha,79252,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1974,1974,hg/ha,8205,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1974,1974,tonnes,65027,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1975,1975,ha,76972,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1975,1975,hg/ha,7973,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1975,1975,tonnes,61369,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1976,1976,ha,75685,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1976,1976,hg/ha,7706,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1976,1976,tonnes,58321,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1977,1977,ha,79117,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1977,1977,hg/ha,9516,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1977,1977,tonnes,75289,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1978,1978,ha,83252,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1978,1978,hg/ha,9248,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1978,1978,tonnes,76988,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1979,1979,ha,100096,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1979,1979,hg/ha,12637,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1979,1979,tonnes,126496,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1980,1980,ha,144483,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1980,1980,hg/ha,11513,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1980,1980,tonnes,166347,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1981,1981,ha,140568,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1981,1981,hg/ha,14660,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1981,1981,tonnes,206066,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1982,1982,ha,135908,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1982,1982,hg/ha,17600,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1982,1982,tonnes,239199,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1983,1983,ha,180800,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1983,1983,hg/ha,17121,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1983,1983,tonnes,309556,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1984,1984,ha,186172,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1984,1984,hg/ha,16292,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1984,1984,tonnes,303307,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1985,1985,ha,170869,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1985,1985,hg/ha,17487,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1985,1985,tonnes,298798,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1986,1986,ha,159127,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1986,1986,hg/ha,17947,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1986,1986,tonnes,285581,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1987,1987,ha,134781,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1987,1987,hg/ha,16596,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1987,1987,tonnes,223687,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1988,1988,ha,120866,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1988,1988,hg/ha,15967,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1988,1988,tonnes,192990,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1989,1989,ha,122647,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1989,1989,hg/ha,15796,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1989,1989,tonnes,193730,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1990,1990,ha,125103,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1990,1990,hg/ha,14950,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1990,1990,tonnes,187024,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1991,1991,ha,124239,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1991,1991,hg/ha,15140,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1991,1991,tonnes,188100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1992,1992,ha,137189,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1992,1992,hg/ha,14943,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1992,1992,tonnes,205000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1993,1993,ha,133546,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1993,1993,hg/ha,15081,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1993,1993,tonnes,201400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1994,1994,ha,166326,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1994,1994,hg/ha,16828,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1994,1994,tonnes,279900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1995,1995,ha,161470,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1995,1995,hg/ha,16746,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1995,1995,tonnes,270400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1996,1996,ha,165112,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1996,1996,hg/ha,17043,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1996,1996,tonnes,281400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1997,1997,ha,160660,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1997,1997,hg/ha,18885,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1997,1997,tonnes,303400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1998,1998,ha,183323,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1998,1998,hg/ha,16250,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1998,1998,tonnes,297900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,1999,1999,ha,203557,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,1999,1999,hg/ha,16880,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,1999,1999,tonnes,343600,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2000,2000,ha,210437,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2000,2000,hg/ha,17055,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2000,2000,tonnes,358900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2001,2001,ha,250501,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2001,2001,hg/ha,20918,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2001,2001,tonnes,524000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2002,2002,ha,268307,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2002,2002,hg/ha,22116,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2002,2002,tonnes,593400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2003,2003,ha,284494,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2003,2003,hg/ha,24356,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2003,2003,tonnes,692900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2004,2004,ha,292588,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2004,2004,hg/ha,26354,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2004,2004,tonnes,771100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2005,2005,ha,319297,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2005,2005,hg/ha,28297,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2005,2005,tonnes,903500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2006,2006,ha,326986,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2006,2006,hg/ha,31066,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2006,2006,tonnes,1015800,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2007,2007,ha,345197,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2007,2007,hg/ha,32680,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2007,2007,tonnes,1128100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2008,2008,ha,354910,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2008,2008,hg/ha,33380,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2008,2008,tonnes,1184700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2009,2009,ha,363003,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2009,2009,hg/ha,33766,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2009,2009,tonnes,1225700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2010,2010,ha,388903,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2010,2010,hg/ha,34826,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2010,2010,tonnes,1354400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2011,2011,ha,411566,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2011,2011,hg/ha,35511,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2011,2011,tonnes,1461500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2012,2012,ha,418850,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2012,2012,hg/ha,35851,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2012,2012,tonnes,1501600,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2013,2013,ha,439894,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2013,2013,hg/ha,36386,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2013,2013,tonnes,1600600,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2014,2014,ha,458105,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2014,2014,hg/ha,36965,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2014,2014,tonnes,1693400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2015,2015,ha,469840,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2015,2015,hg/ha,37215,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2015,2015,tonnes,1748500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2016,2016,ha,488098,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2016,2016,hg/ha,37505,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2016,2016,tonnes,1830631,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2017,2017,ha,500605,,Official data
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2017,2017,hg/ha,38140,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2017,2017,tonnes,1909334,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,56,Maize,2018,2018,ha,516272,Im,FAO data based on imputation methodology
+QC,Crops,28,Myanmar,5419,Yield,56,Maize,2018,2018,hg/ha,38412,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,56,Maize,2018,2018,tonnes,1983122,Im,FAO data based on imputation methodology
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1961,1961,ha,4253700,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,16066,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1961,1961,tonnes,6834100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1962,1962,ha,4654000,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,16469,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1962,1962,tonnes,7664700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1963,1963,ha,4877500,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,15957,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1963,1963,tonnes,7782900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1964,1964,ha,4976100,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1964,1964,hg/ha,17097,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1964,1964,tonnes,8507700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1965,1965,ha,4848300,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1965,1965,hg/ha,16614,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1965,1965,tonnes,8055100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1966,1966,ha,4516500,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1966,1966,hg/ha,14694,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1966,1966,tonnes,6636400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1967,1967,ha,4706000,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1967,1967,hg/ha,16510,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1967,1967,tonnes,7769400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1968,1968,ha,4763400,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1968,1968,hg/ha,16843,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1968,1968,tonnes,8022900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1969,1969,ha,4671600,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1969,1969,hg/ha,17092,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1969,1969,tonnes,7984700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1970,1970,ha,4808700,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1970,1970,hg/ha,16973,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1970,1970,tonnes,8161900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1971,1971,ha,4763800,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1971,1971,hg/ha,17161,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1971,1971,tonnes,8175000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1972,1972,ha,4528100,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1972,1972,hg/ha,16247,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1972,1972,tonnes,7356800,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1973,1973,ha,4879500,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1973,1973,hg/ha,17629,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1973,1973,tonnes,8601900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1974,1974,ha,4884100,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1974,1974,hg/ha,17574,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1974,1974,tonnes,8583400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1975,1975,ha,5029600,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1975,1975,hg/ha,18307,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1975,1975,tonnes,9207700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1976,1976,ha,4911500,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1976,1976,hg/ha,18974,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1976,1976,tonnes,9319300,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1977,1977,ha,4864000,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1977,1977,hg/ha,19453,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1977,1977,tonnes,9462000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1978,1978,ha,5010500,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1978,1978,hg/ha,21012,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1978,1978,tonnes,10528300,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1979,1979,ha,4441900,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1979,1979,hg/ha,23521,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1979,1979,tonnes,10447900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1980,1980,ha,4800900,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1980,1980,hg/ha,27739,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1980,1980,tonnes,13317400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1981,1981,ha,4808700,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1981,1981,hg/ha,29419,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1981,1981,tonnes,14146600,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1982,1982,ha,4562300,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1982,1982,hg/ha,31505,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1982,1982,tonnes,14373400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1983,1983,ha,4659200,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1983,1983,hg/ha,30666,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1983,1983,tonnes,14288100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1984,1984,ha,4601300,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1984,1984,hg/ha,30981,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1984,1984,tonnes,14255500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1985,1985,ha,4660800,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1985,1985,hg/ha,30718,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1985,1985,tonnes,14317048,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1986,1986,ha,4665700,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1986,1986,hg/ha,30279,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1986,1986,tonnes,14127100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1987,1987,ha,4482800,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1987,1987,hg/ha,30424,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1987,1987,tonnes,13638400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1988,1988,ha,4527300,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1988,1988,hg/ha,29084,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1988,1988,tonnes,13167100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1989,1989,ha,4732400,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1989,1989,hg/ha,29174,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1989,1989,tonnes,13806500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1990,1990,ha,4760000,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1990,1990,hg/ha,29353,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1990,1990,tonnes,13971800,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1991,1991,ha,4574975,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1991,1991,hg/ha,28400,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1991,1991,tonnes,12992900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1992,1992,ha,5056147,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1992,1992,hg/ha,28882,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1992,1992,tonnes,14603000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1993,1993,ha,5486733,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1993,1993,hg/ha,30063,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1993,1993,tonnes,16495000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1994,1994,ha,5742899,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1994,1994,hg/ha,31182,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1994,1994,tonnes,17907700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1995,1995,ha,6032654,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1995,1995,hg/ha,29290,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1995,1995,tonnes,17669600,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1996,1996,ha,5768394,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1996,1996,hg/ha,30159,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1996,1996,tonnes,17397000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1997,1997,ha,5408224,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1997,1997,hg/ha,30308,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1997,1997,tonnes,16391200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1998,1998,ha,5458405,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1998,1998,hg/ha,30793,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1998,1998,tonnes,16807800,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",1999,1999,ha,6210787,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",1999,1999,hg/ha,32405,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",1999,1999,tonnes,20126038,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2000,2000,ha,6302175,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2000,2000,hg/ha,33301,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2000,2000,tonnes,20986900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2001,2001,ha,6411996,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2001,2001,hg/ha,33639,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2001,2001,tonnes,21569200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2002,2002,ha,6376637,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2002,2002,hg/ha,33655,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2002,2002,tonnes,21460700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2003,2003,ha,6527585,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2003,2003,hg/ha,34883,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2003,2003,tonnes,22770200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2004,2004,ha,6807628,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2004,2004,hg/ha,35785,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2004,2004,tonnes,24360900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2005,2005,ha,7383901,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2005,2005,hg/ha,36899,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2005,2005,tonnes,27245800,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2006,2006,ha,8074295,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2006,2006,hg/ha,37694,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2006,2006,tonnes,30435000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2007,2007,ha,8011164,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2007,2007,hg/ha,38639,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2007,2007,tonnes,30954000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2008,2008,ha,8077533,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2008,2008,hg/ha,39688,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2008,2008,tonnes,32058500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2009,2009,ha,8058108,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2009,2009,hg/ha,39917,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2009,2009,tonnes,32165800,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2010,2010,ha,8011164,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2010,2010,hg/ha,40026,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2010,2010,tonnes,32065100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2011,2011,ha,7566819,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2011,2011,hg/ha,37733,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2011,2011,tonnes,28552100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2012,2012,ha,6988927,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2012,2012,hg/ha,37512,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2012,2012,tonnes,26216600,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2013,2013,ha,6952910,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,37930,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2013,2013,tonnes,26372100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2014,2014,ha,6869545,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,38464,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2014,2014,tonnes,26423300,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2015,2015,ha,6769494,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,38718,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2015,2015,tonnes,26210318,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2016,2016,ha,6723986,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,38181,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2016,2016,tonnes,25672832,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2017,2017,ha,6745375,,Official data
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,37989,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2017,2017,tonnes,25624866,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,27,"Rice, paddy",2018,2018,ha,6705577,Im,FAO data based on imputation methodology
+QC,Crops,28,Myanmar,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,37906,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,27,"Rice, paddy",2018,2018,tonnes,25418142,Im,FAO data based on imputation methodology
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1961,1961,ha,27093,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1961,1961,hg/ha,299789,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1961,1961,tonnes,812219,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1962,1962,ha,34720,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1962,1962,hg/ha,313702,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1962,1962,tonnes,1089173,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1963,1963,ha,46822,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1963,1963,hg/ha,275949,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1963,1963,tonnes,1292050,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1964,1964,ha,33866,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1964,1964,hg/ha,345654,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1964,1964,tonnes,1170591,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1965,1965,ha,34771,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1965,1965,hg/ha,311837,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1965,1965,tonnes,1084290,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1966,1966,ha,41799,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1966,1966,hg/ha,346359,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1966,1966,tonnes,1447747,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1967,1967,ha,46687,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1967,1967,hg/ha,339214,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1967,1967,tonnes,1583690,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1968,1968,ha,45545,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1968,1968,hg/ha,317410,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1968,1968,tonnes,1445645,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1969,1969,ha,39894,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1969,1969,hg/ha,327847,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1969,1969,tonnes,1307911,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1970,1970,ha,39654,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1970,1970,hg/ha,330887,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1970,1970,tonnes,1312098,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1971,1971,ha,42450,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1971,1971,hg/ha,338335,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1971,1971,tonnes,1436230,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1972,1972,ha,46692,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1972,1972,hg/ha,349502,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1972,1972,tonnes,1631897,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1973,1973,ha,56657,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1973,1973,hg/ha,358721,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1973,1973,tonnes,2032405,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1974,1974,ha,46588,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1974,1974,hg/ha,362200,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1974,1974,tonnes,1687416,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1975,1975,ha,36039,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1975,1975,hg/ha,334114,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1975,1975,tonnes,1204115,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1976,1976,ha,46054,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1976,1976,hg/ha,354179,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1976,1976,tonnes,1631137,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1977,1977,ha,44379,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1977,1977,hg/ha,366320,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1977,1977,tonnes,1625692,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1978,1978,ha,50444,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1978,1978,hg/ha,355085,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1978,1978,tonnes,1791190,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1979,1979,ha,49824,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1979,1979,hg/ha,369449,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1979,1979,tonnes,1840742,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1980,1980,ha,41572,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1980,1980,hg/ha,351521,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1980,1980,tonnes,1461344,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1981,1981,ha,45071,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1981,1981,hg/ha,451585,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1981,1981,tonnes,2035340,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1982,1982,ha,51800,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1982,1982,hg/ha,528185,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1982,1982,tonnes,2736000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1983,1983,ha,59500,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1983,1983,hg/ha,624908,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1983,1983,tonnes,3718200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1984,1984,ha,57500,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1984,1984,hg/ha,636974,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1984,1984,tonnes,3662600,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1985,1985,ha,60700,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1985,1985,hg/ha,620610,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1985,1985,tonnes,3767100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1986,1986,ha,63900,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1986,1986,hg/ha,602926,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1986,1986,tonnes,3852700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1987,1987,ha,56700,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1987,1987,hg/ha,605467,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1987,1987,tonnes,3433000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1988,1988,ha,55800,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1988,1988,hg/ha,639086,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1988,1988,tonnes,3566100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1989,1989,ha,48200,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1989,1989,hg/ha,486805,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1989,1989,tonnes,2346400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1990,1990,ha,48200,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1990,1990,hg/ha,400560,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1990,1990,tonnes,1930700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1991,1991,ha,51395,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1991,1991,hg/ha,409611,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1991,1991,tonnes,2105200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1992,1992,ha,71629,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1992,1992,hg/ha,450792,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1992,1992,tonnes,3229000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1993,1993,ha,60703,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1993,1993,hg/ha,440869,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1993,1993,tonnes,2676200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1994,1994,ha,49776,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1994,1994,hg/ha,445693,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1994,1994,tonnes,2218500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1995,1995,ha,63536,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1995,1995,hg/ha,503528,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1995,1995,tonnes,3199200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1996,1996,ha,81747,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1996,1996,hg/ha,486712,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1996,1996,tonnes,3978700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1997,1997,ha,103195,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1997,1997,hg/ha,489937,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1997,1997,tonnes,5055900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1998,1998,ha,122620,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1998,1998,hg/ha,435810,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1998,1998,tonnes,5343900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,1999,1999,ha,125453,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,1999,1999,hg/ha,427508,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,1999,1999,tonnes,5363200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2000,2000,ha,132737,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2000,2000,hg/ha,436992,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2000,2000,tonnes,5800500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2001,2001,ha,157828,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2001,2001,hg/ha,443763,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2001,2001,tonnes,7003800,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2002,2002,ha,142449,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2002,2002,hg/ha,444179,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2002,2002,tonnes,6327300,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2003,2003,ha,146496,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2003,2003,hg/ha,464468,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2003,2003,tonnes,6804290,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2004,2004,ha,139617,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2004,2004,hg/ha,515332,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2004,2004,tonnes,7194900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2005,2005,ha,129095,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2005,2005,hg/ha,547892,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2005,2005,tonnes,7073000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2006,2006,ha,144473,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2006,2006,hg/ha,556430,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2006,2006,tonnes,8038900,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2007,2007,ha,165921,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2007,2007,hg/ha,583271,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2007,2007,tonnes,9677700,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2008,2008,ha,161874,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2008,2008,hg/ha,601961,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2008,2008,tonnes,9744200,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2009,2009,ha,157828,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2009,2009,hg/ha,605851,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2009,2009,tonnes,9562000,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2010,2010,ha,150139,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2010,2010,hg/ha,616064,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2010,2010,tonnes,9249500,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2011,2011,ha,153376,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2011,2011,hg/ha,621831,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2011,2011,tonnes,9537400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2012,2012,ha,153781,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2012,2012,hg/ha,612112,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2012,2012,tonnes,9413100,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2013,2013,ha,169159,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2013,2013,hg/ha,609333,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2013,2013,tonnes,10307400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2014,2014,ha,178467,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2014,2014,hg/ha,623557,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2014,2014,tonnes,11128400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2015,2015,ha,161874,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2015,2015,hg/ha,626561,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2015,2015,tonnes,10142400,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2016,2016,ha,163650,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2016,2016,hg/ha,637767,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2016,2016,tonnes,10437058,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2017,2017,ha,163248,,Official data
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2017,2017,hg/ha,635233,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2017,2017,tonnes,10370042,,Official data
+QC,Crops,28,Myanmar,5312,Area harvested,156,Sugar cane,2018,2018,ha,167546,Im,FAO data based on imputation methodology
+QC,Crops,28,Myanmar,5419,Yield,156,Sugar cane,2018,2018,hg/ha,636197,Fc,Calculated data
+QC,Crops,28,Myanmar,5510,Production,156,Sugar cane,2018,2018,tonnes,10659222,Im,FAO data based on imputation methodology

@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/' , include("hello.urls")),
     url(r"^" , include("users.urls")),
+    url('', include("crud.urls"))
 ]
